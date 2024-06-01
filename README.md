@@ -31,23 +31,17 @@ This repository contains a script to automate the process of entering dates on a
 
 ### 2. Install Puppeteer
 
-1. **Create a Project Directory**:
-   - Create a new directory for your project and navigate into it:
-     ```sh
-     mkdir puppeteer-automation
-     cd puppeteer-automation
-     ```
+1. **Clone the Repository**:
+   - Clone this repository to your local machine:
+   ```sh
+   git clone https://github.com/sinusance/park-entry-reservations.git
+   cd park-entry-reservations
+   ```
 
-2. **Initialize a New Node.js Project**:
-   - Run the following command to create a `package.json` file:
-     ```sh
-     npm init -y
-     ```
-
-3. **Install Puppeteer**:
+2. **Install Puppeteer**:
    - Run the following command to install Puppeteer:
      ```sh
-     npm install puppeteer
+     npm install
      ```
 
 ## Usage
